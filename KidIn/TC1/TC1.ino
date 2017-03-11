@@ -1,3 +1,6 @@
+//Esto es un test rápido de la librería LowPower
+//Nos permitirá correr el proyecto varios días con una sola carga
+
 #include <LowPower.h>
 
 
